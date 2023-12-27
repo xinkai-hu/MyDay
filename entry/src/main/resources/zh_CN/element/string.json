@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "作者：胡欣凯 20214919"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "作者：胡欣凯 20214919"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "我的一天"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    }
+  ]
+}
